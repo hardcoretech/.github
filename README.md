@@ -4,6 +4,13 @@
 this PUBLIC repository is an organization level default settings
 
 
+workflow-templates only work for the public repository,
+github will support .github-private in the [future](https://github.com/github/roadmap/issues/51) 
+
+
+however, pull-request template both work for public and private repository
+
+
 reference : 
 
 [Creating a default community health file](https://docs.github.com/en/free-pro-team@latest/github/building-a-strong-community/creating-a-default-community-health-file)
