@@ -1,9 +1,5 @@
 {
   "name": "Rebase Command",
   "description": "after active this workflow, you can use /rebase in pull request",
-  "iconName": "rebase-icon.svg",
-  "categories": [
-  ],
-  "filePatterns": [
-  ]
+  "iconName": "rebase-icon.svg"
 }
