@@ -1,0 +1,9 @@
+{
+  "name": "Labeler",
+  "description": "Auto add label based on pull request affected files",
+  "iconName": "labeler-icon.svg",
+  "categories": [
+  ],
+  "filePatterns": [
+  ]
+}
